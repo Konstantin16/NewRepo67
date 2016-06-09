@@ -83,7 +83,7 @@ namespace ConsoleApplication1
             {
                 Console.WriteLine(its.Current);
             }
-
+            
             its.Reset();
             Console.WriteLine(its.Current);
 
@@ -93,5 +93,4 @@ namespace ConsoleApplication1
         {
 
         }
-    }
 }
